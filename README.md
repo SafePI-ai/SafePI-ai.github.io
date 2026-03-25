@@ -6,7 +6,7 @@ Welcome to **SafePI.ai**, a company focused on safe and reliable AI-powered robo
 
 ## About Us
 
-SafePI.ai works on making robotic systems safer by design, covering electrical, mechanical, and environmental protection aspects. [web:14]  
+SafePI.ai works on making robotic systems safer by design, covering electrical, mechanical, and environmental protection aspects.
 Our mission is to help organizations deploy robots that are robust, compliant, and trustworthy.
 
 ---
