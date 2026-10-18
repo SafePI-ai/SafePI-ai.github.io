@@ -19,4 +19,4 @@ Here is a quick look at the essential layers of protection:
 
 Safety isn't just about compliance; it's about creating harmony between humans and machines. 🌟
 
-![SafePi.ai](/../assets/layers.png)
+![SafePi.ai](layers.png)
