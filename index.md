@@ -1,5 +1,5 @@
 ---
-title: Safe Physicak Intelligence - SafePi
+title: Safe Physical Intelligence - SafePi
 ---
 
 ## About Us
