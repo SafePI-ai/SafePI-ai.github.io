@@ -1,5 +1,5 @@
 ---
-title: Safe Physical Intelligence (SafePi)
+title: Safe Physical Intelligence
 ---
 
 ## <img src="assets/logo5a.png" width="45" title="Safe Physical Intelligence"> About Us
