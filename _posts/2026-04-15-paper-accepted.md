@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our research report to be presented in Barcelona"
+title: "Our project to be presented at the International Conference on Automation and Mechatronics Engineering"
 date: 2026-04-15
 categories: jekyll
 ---
