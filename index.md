@@ -1,8 +1,8 @@
 ---
-title: Safe Physical Intelligence (SafePi)
+title: <img src="assets/logo4.png" width="35" title="hover text"> Safe Physical Intelligence (SafePi)
 ---
 
-## <img src="assets/logo1.png" width="35" title="hover text"> About Us
+## About Us
 
 SafePI.ai works on making robotic systems safer by design, covering electrical, mechanical, and environmental protection aspects.
 
