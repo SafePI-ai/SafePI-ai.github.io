@@ -5,7 +5,7 @@ date: 2026-10-08
 categories: jekyll
 ---
 
-The video is on our [YouTube Chanel](https://www.youtube.com/watch?v=ldqd7yaZNKs)
+The video report is available on our [YouTube Chanel](https://www.youtube.com/watch?v=ldqd7yaZNKs)
 
 See our research reports on Arxiv.org: 
 - ["Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes"](https://arxiv.org/abs/2608.14481)
