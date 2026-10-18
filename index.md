@@ -1,9 +1,5 @@
 ---
-title: SafePI.ai
----
-
-Welcome to **SafePI.ai**, a company focused on safe and reliable AI-powered robotics solutions.
-
+title: Safe Physicak Intelligence - SafePi
 ---
 
 ## About Us
