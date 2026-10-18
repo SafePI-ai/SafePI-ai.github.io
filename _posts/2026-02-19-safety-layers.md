@@ -18,3 +18,5 @@ Here is a quick look at the essential layers of protection:
 💧 Environment: Finally, water resistance is classified according to IEC 60529 to ensure durability.
 
 Safety isn't just about compliance; it's about creating harmony between humans and machines. 🌟
+
+![SafePi.ai](../assets/layers.png)
