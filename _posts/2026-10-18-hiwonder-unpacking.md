@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unpacking Hiwonder SO-ARM101"
-date: 2026-02-19
+date: 2026-10-18
 categories: jekyll
 ---
 
