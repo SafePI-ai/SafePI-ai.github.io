@@ -18,3 +18,5 @@ We present a structured Robotics Physical Safety Framework that explicitly links
 By aligning classical risk engineering (hazard ontologies) with digital twin simulation and ML training pipelines, our approach enables "safety envelope learning" that is grounded in formal hazard analysis.
 
 See the paper draft on Arxiv.org: ["A Hazard-Informed Data Pipelinefor Robotics Physical Safety"](http://arxiv.org/abs/2603.06130).
+
+![Workflow](/assets/b2.png)
