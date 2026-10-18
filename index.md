@@ -1,5 +1,5 @@
 ---
-title: <img src="assets/logo4.png" width="35" title="hover text"> Safe Physical Intelligence (SafePi)
+title: <img src="assets/logo5.png" width="55" title="hover text"> Safe Physical Intelligence (SafePi)
 ---
 
 ## About Us
