@@ -8,4 +8,4 @@ title: Safe Physical Intelligence
 
 You can learn more about our work and follow updates on our [LinkedIn page](https://www.linkedin.com/company/safepi-ai/)
 
-![SafePi](/assets/all.bmp)
+![SafePi](/assets/all.jpg)
