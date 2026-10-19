@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🌱 Impact Social Cup in Bilbao!"
-date: 2026-08-30
+date: 2026-09-30
 categories: jekyll
 ---
 
