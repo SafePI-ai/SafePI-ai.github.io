@@ -4,3 +4,5 @@ minima:
   show_excerpts: true
   skin: dark
   hide_site_feed_link: true
+
+google_analytics: G-FGVNQGEDDB
