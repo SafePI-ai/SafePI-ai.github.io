@@ -5,7 +5,7 @@ date: 2026-11-04
 categories: jekyll
 ---
 
-See the video on our [YouTube Chanel](https://www.youtube.com/watch?v=ldqd7yaZNKs)
+See the video on our [YouTube Chanel]([https://www.youtube.com/watch?v=7595lUdNPUo])
 
 #Our goal is to make humanoid robots safe in home environments.
 
